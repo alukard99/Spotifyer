@@ -1,0 +1,29 @@
+com/example/spotyfier/controller/RecyclerAdapter.java
+ com.example.spotyfier.controller.RecyclerAdapter
+ com.example.spotyfier.controller.RecyclerAdapter$1
+ com.example.spotyfier.controller.RecyclerAdapter$RecyclerHolder
+com/example/spotyfier/controller/HelperBD.java
+ com.example.spotyfier.controller.HelperBD
+com/example/spotyfier/controller/ConnectApi.java
+ com.example.spotyfier.controller.ConnectApi
+com/example/spotyfier/view/loginActivity.java
+ com.example.spotyfier.view.loginActivity
+ com.example.spotyfier.view.loginActivity$1
+ com.example.spotyfier.view.loginActivity$2
+ com.example.spotyfier.view.loginActivity$3
+ com.example.spotyfier.view.loginActivity$4
+com/example/spotyfier/model/Personaje.java
+ com.example.spotyfier.model.Personaje
+com/example/spotyfier/view/MainActivity.java
+ com.example.spotyfier.view.MainActivity
+ com.example.spotyfier.view.MainActivity$1
+ com.example.spotyfier.view.MainActivity$taskConnections
+com/example/spotyfier/view/RegisterActivity.java
+ com.example.spotyfier.view.RegisterActivity
+ com.example.spotyfier.view.RegisterActivity$1
+ com.example.spotyfier.view.RegisterActivity$2
+com/example/spotyfier/controller/SettingsActivity.java
+ com.example.spotyfier.controller.SettingsActivity
+ com.example.spotyfier.controller.SettingsActivity$SettingsFragment
+com/example/spotyfier/BuildConfig.java
+ com.example.spotyfier.BuildConfig
